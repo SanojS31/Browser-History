@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgabrwserhist.ccbp.tech/](https://durgabrwserhist.ccbp.tech/)🔗
+## **_Website_**:[https://browser-history-cyan.vercel.app/](https://browser-history-cyan.vercel.app/)🔗
 
 
 In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
